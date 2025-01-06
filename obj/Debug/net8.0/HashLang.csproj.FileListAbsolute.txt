@@ -1,0 +1,14 @@
+/home/jobleet/Desktop/HashLang/bin/Debug/net8.0/HashLang
+/home/jobleet/Desktop/HashLang/bin/Debug/net8.0/HashLang.deps.json
+/home/jobleet/Desktop/HashLang/bin/Debug/net8.0/HashLang.runtimeconfig.json
+/home/jobleet/Desktop/HashLang/bin/Debug/net8.0/HashLang.dll
+/home/jobleet/Desktop/HashLang/bin/Debug/net8.0/HashLang.pdb
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.GeneratedMSBuildEditorConfig.editorconfig
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.AssemblyInfoInputs.cache
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.AssemblyInfo.cs
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.csproj.CoreCompileInputs.cache
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.dll
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/refint/HashLang.dll
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.pdb
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.genruntimeconfig.cache
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/ref/HashLang.dll

@@ -12,3 +12,4 @@
 /home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.pdb
 /home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.genruntimeconfig.cache
 /home/jobleet/Desktop/HashLang/obj/Debug/net8.0/ref/HashLang.dll
+/home/jobleet/Desktop/HashLang/obj/Debug/net8.0/HashLang.sourcelink.json
